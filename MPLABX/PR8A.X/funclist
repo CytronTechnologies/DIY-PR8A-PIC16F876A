@@ -1,0 +1,10 @@
+_delay: CODE, 1308 0 48
+_beep: CODE, 1160 0 33
+_main: CODE, 1356 0 692
+_uart_rec: CODE, 1006 0 15
+_lcd_clr: CODE, 1040 0 20
+_lcd_goto: CODE, 1100 0 29
+_send_string: CODE, 1269 0 39
+_send_config: CODE, 1193 0 38
+_send_char: CODE, 1231 0 38
+Total: 952
